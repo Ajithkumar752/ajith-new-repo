@@ -1,3 +1,3 @@
 # ajith-new-repo
 new-repo
-this is for the practise
+this is for the practise only
